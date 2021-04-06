@@ -16,5 +16,13 @@ body {
   /*
    * CSS image reference example.
    */
-  background-image: url('./images/bg-pattern.png');
+  background-image: url(https://viliioannis.net/wp-content/uploads/2018/04/site-background.jpg);
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  margin: 200px;
+  width: 1000px;
+  height: 100px;
 }
